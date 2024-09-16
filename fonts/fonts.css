@@ -1,0 +1,23 @@
+@font-face {
+    font-family: 'young-serif';
+    src: url(../fonts/YoungSerif-Regular.ttf); /* 400*/
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit';
+    src: url(../fonts/Outfit-Regular.ttf); /*400*/
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit-semibold';
+    src: url(../fonts/Outfit-SemiBold.ttf); /*600*/
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Outfit-bold';
+    src: url(../fonts/Outfit-Bold.ttf); /*700*/
+    font-display: swap;
+}
